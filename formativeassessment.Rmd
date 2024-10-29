@@ -25,3 +25,8 @@ replace_na_ozone <- function(data) {
 replaced_airquality <- replace_na_ozone(airquality)
 
 ```
+
+```{r}
+
+
+```
