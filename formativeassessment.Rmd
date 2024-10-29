@@ -28,5 +28,4 @@ replaced_airquality <- replace_na_ozone(airquality)
 
 ```{r}
 
-
 ```
